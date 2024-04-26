@@ -27,7 +27,7 @@ Este repositório contém todos os recursos desenvolvidos para o trabalho de Pro
 4. Analise os dados usando os notebooks Jupyter disponíveis na pasta `analysis/`.
 
 ## Participação
-Este projeto foi desenvolvido por Matheus Lima Ribeiro, sob orientação do Sérgio da Costa Côrtes.
+Este projeto foi desenvolvido por Matheus Lima Ribeiro, sob orientação do Professor Sérgio da Costa Côrtes.
 
 ## Contato
 Para dúvidas e sugestões, entre em contato através do e-mail: matheuslimaribeiro03@gmail.com
