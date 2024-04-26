@@ -23,7 +23,7 @@ Este repositório contém todos os recursos desenvolvidos para o trabalho de Pro
 ## Como Executar
 1. Clone este repositório.
 2. Instale as dependências Python listadas em `requirements.txt`.
-3. Execute os scripts na pasta `src/` para realizar a coleta e tratamento dos dados.
+3. Execute os scripts na pasta `src/` para realizar a coleta e tratamento dos dados. (Se guie pelo `guide.txt`)
 4. Analise os dados usando os notebooks Jupyter disponíveis na pasta `analysis/`.
 
 ## Participação
